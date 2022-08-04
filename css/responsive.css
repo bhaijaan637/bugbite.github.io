@@ -1,0 +1,1104 @@
+@media(max-width:1680px){
+    .top-img {
+      width: 375px;
+  }
+}
+@media(max-width:1625px){
+  .donate-now .sel-container .donate-img {
+    width: 330px;
+    right: -115px;
+    top: 100px;
+    height: auto;
+  }
+}
+
+/*===========================
+     Screen Size 1600px
+===========================*/
+@media(max-width: 1600px){
+  .top-img.pt-3 {
+    width: 350px;
+}
+.menubar > li > a {
+  font-size: 1.1rem;
+}
+.donate-now .sel-container .donate-img {
+    width: 270px;
+    right: -15px;
+  }
+  .video-gallery .slick-next {
+    width: 70px;
+    height: 70px;
+    right: -70px;
+  }
+  .video-gallery .slick-prev {
+    width: 70px;
+    height: 70px;
+    left:  -70px;
+  }
+
+.video-gallery .slick-next::before {
+  font-size: 4rem;
+}
+.video-gallery .slick-prev::before {
+  font-size: 4rem;
+}
+}
+
+/*===========================
+  Screen Size 1600px End
+===========================*/
+
+/*===========================
+     Screen Size 1430px
+===========================*/
+@media(max-width: 1430px){
+  .top-img{
+    width: 350px;
+  }
+.menubar > li::after {
+  margin: 0 24px;
+  }
+    .menubar > li > a {
+    font-size: 1rem;
+  }
+  .donate-now .sel-container .donate-img {
+    width: 260px;
+    right: -50px;
+    top: 107px;
+    height: auto;
+  }
+  .video-gallery .slick-next {
+    width: 50px;
+    height: 50px;
+    right: -35px;
+  }
+  .video-gallery .slick-prev {
+    width: 50px;
+    height: 50px;
+    left: -35px;
+  }
+
+  .video-gallery .slick-next::before {
+    font-size: 3rem;
+  }
+  .video-gallery .slick-prev::before {
+    font-size: 3rem;
+  }
+  .content-container .content-box {
+    padding-left: calc((100vw - 1295px) / 2);
+  }
+  .message-us .bg-p {
+    width: 600px;
+  }
+  .contact-detail > .container.bg-w {
+    padding-left: 15px;
+  }
+}
+
+/*===========================
+  Screen Size 1430px End
+===========================*/
+@media(max-width: 1400px){
+  .container.celebration-content{
+    max-width: 100%;
+  } 
+  .gallery-head{
+    max-width: 100%;
+  }
+  .news-article-page .share-2 {
+    padding-left: 22px;
+  }
+}
+/*===========================
+     Screen Size 1350px
+===========================*/
+@media(max-width: 1350px){
+   .top-img.pt-3 {
+    width: 300px;
+ }
+ .menubar > li::after {
+    margin: 0 20px;
+}
+.top-bar .top-links ul {
+    height: 60px;
+  }
+.top-bar .top-links ul li {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .content-container .content-box {
+    padding-left: calc((100vw - 1120px) / 2);
+  }
+  .gallery-head{
+    padding-left: 20px;
+  }
+  .team-page > .container {
+    padding-left: 20px;
+  }
+  .team-page.reverse > .container{
+    padding-right: 20px;
+  }
+}
+
+/*===========================
+  Screen Size 1350px End
+===========================*/
+
+/*===========================
+     Screen Size 1250px
+===========================*/
+@media(max-width: 1250px){
+  .top-img {
+  width: 305px;
+  padding: 25px 0 0 20px;
+  }
+  .menubar > li > a {
+  font-size: 1rem;
+  }
+  .donate-now .sel-container .donate-img {
+    display: none;
+  }
+  .donate-now .sel-container .sel-content span::after {
+    width: 100%;
+  }
+  .container.news-updates {
+    max-width: 100%;
+    padding: 0 40px 70px;
+  }
+  .content-container .content-box {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: calc((100vw - 1060px) / 2);
+    width: calc(100% + 100px);
+  }
+  .content-container .content-body p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 26px;
+  }
+}
+
+/*===========================
+  Screen Size 1250px End
+===========================*/
+
+@media(max-width: 1200px){
+  .celebration-header.bg-w > .container , .container.celebration-img{
+    max-width: 100%;
+  }
+  .news-article-page .container{
+    max-width: 100%;
+  }
+  .container.celebration-content {
+    margin-top: 0;
+  }
+  .celebration-content .site-content {
+    margin-top: 0px;
+    margin-right: 0;
+    border: none;
+    max-width: 625px;
+  }
+  .container.celebration-content > .row{
+    flex-direction: column-reverse;
+  } 
+  .container.celebration-content {
+    padding-left: 25px;
+  }
+  .celebration-content .col-lg-12.col-xl-6.ps-0{
+    background-color: var(--primary-color);
+    margin-top: 20px;
+  }
+  .event-content .col-lg-12.col-xl-6.ps-0 {
+    background-color: var(--bg-color);
+  }
+  .celebration-content .content{
+    margin-top: 40px;
+  }
+  .celebration-content .btns {
+    max-width: 650px;
+  }
+}
+/*===========================
+     Screen Size 1150px
+===========================*/
+@media(max-width: 1150px){
+  .top-img {
+    padding: 15px 0 12px 15px;
+    width: 330px;
+    height: auto;
+  }
+  .top-img.pt-3 {
+    width: 300px;
+    padding-bottom: 1rem;
+  } 
+  .top-bar .top-links {
+    display: none;
+  }
+  .top-bar {
+    align-items: center;
+  }
+  .mobile-icon{
+   display: block;
+   cursor: pointer;
+   position: absolute;
+   right: 0;
+   top: 32px;
+   z-index: 99;
+  }
+  .top-bar .mobile-icon i{
+    font-size: 2.4rem;
+    font-weight: 600;
+    margin-right: 10px;
+  }
+  .top-menu{
+    display: block;
+    background: var(--primary-color);
+    color: var(--white-color);
+  }
+  .top-menu + .menubar{
+    background: var(--white-color);
+    padding-right: 0;
+    padding-top: 56px;
+    padding-bottom: 58px;
+  }
+  .top-menu .primary-btn{
+    padding: 18px 25px 16px;
+    font-size: 25.31px;
+  }
+  .top-menu > .menubar > li:hover{
+   color: var(--white-color);
+  }
+ .links-wrapper {
+  display: initial;
+  position: fixed;
+  /*top: 100px;*/
+  top: 0px;
+  left: 0;
+  -webkit-transform: translate(-100%, 0);
+  padding: 36px 15px 15px;
+  width: 100%;
+  background-color: var(--primary-color);
+  overflow-x: hidden;
+  overflow-y: scroll;
+  transition: 0.5s ease-in-out;
+  -webkit-transition: -webkit-transform 0.5s ease-in-out;
+ }
+ .img-fluid.top-img2 {
+  display: block;
+ }
+ .menubar {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-transform: capitalize;
+  }
+  .menubar > li > a {
+   font-size: 1.5rem;
+  }
+  .menubar > li::after {
+    display: none;
+  }
+  .menu-bar .menu-img {
+    display: none;
+  }
+  .links-wrapper .menubar .has-child:hover .menu-bar{
+    display: block;
+  }
+  .menubar .menu-bar.open{
+    top: 0;
+    left: 0 !important;
+    width: 100%;
+    height: 100%;
+    display: block;
+    align-items: start;
+    background: var(--primary-color);
+    padding: 70px 35px 30px;
+  }
+  .show-menu{
+    -webkit-transform: translate(0, 0);
+    width: 100%;
+    height: 100vh;
+    z-index: 2;
+    padding: 36px 15px 15px;
+  }
+  .top-menu + span{
+    display: block;
+  }
+  .s-hide{
+    overflow: hidden;
+  }
+  .top-bg{
+    /*background: var(--primary-color);*/
+    /*position: fixed;
+    top: 0;*/
+    /*padding-top: 4px;*/
+    /*padding-bottom: 3px;*/
+    padding-left: 0;
+    position: relative;
+  }
+  .icon-fc{
+    color: var(--white-color);
+  }
+  /*.top-img.no-img{
+    display: none;
+    filter: invert(2) brightness(26.5);
+    width: 100vw;
+    background: var(--primary-color);
+  }*/
+  .img-fluid.top-img2.add-img {
+    left: 0;
+  }
+  /*.top-img2.add-img{
+    display: block !important;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 300px;
+  }*/
+  .links-wrapper .menubar > .has-child > a:after{
+    display: inline-block;
+    content: "\f105";
+    font-family: "Font Awesome 5 Free";
+    margin-left: 10px;
+  }
+  .menu-bar .sub-menu {
+    width: 100%;
+    text-align: center;
+  }
+  .menubar .menu-bar.open .sub-menu li a {
+    color: var(--white-color);
+    transition: none;
+  }
+  .menubar .menu-bar.open .sub-menu .top-menu{
+    display: block;
+    margin: 50px auto 0;
+    max-width: 180px;
+  }
+  .menubar .menu-bar.open .bck-btn{
+    display: initial;
+  }
+  .menubar .menu-bar.open .bck-btn .bck{
+    font-size: 1.4rem;
+    color: var(--white-color);
+  }
+  .menubar .menu-bar.open .bck-btn .bck:hover{
+    color: var(--white-color);
+  }
+  .menubar .menu-bar.open .bck-btn .bck:before{
+    display: inline-block;
+    content: "\f104";
+    font-family: "Font Awesome 5 Free";
+    margin-right: 5px;
+    font-weight: 900
+  }
+  
+  .video-gallery .slick-center figcaption {
+    display: none;
+  }
+  .video-gallery .slick-next {
+    right: -35px;
+    margin-top: 0;
+  }
+  .video-gallery .slick-prev {
+    left: -35px;
+    margin-top: 0;
+  }
+
+  .video-gallery .slick-next::before {
+    font-size: 3rem;
+  }
+  .video-gallery .slick-prev::before {
+    font-size: 3rem;
+  }
+  .menubar > li {
+    padding-bottom: 25px;
+  }
+  .content-container .content-box {
+    padding-left: calc((100vw - 950px) / 2);
+    width: calc(100% + 50px);
+  }
+  .contact-detail {
+    margin-top: 0;
+    flex-direction: column;
+  }
+  .contact-detail > .container.bg-w {
+    max-width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .message-us {
+    max-width: 100%;
+  }
+  .message-us .bg-p {
+    width: 100%;
+  }
+  .team-page .team-content {
+    padding: 20px 30px 20px;
+    border: 15px solid #fff;
+    border-right: 0;
+  }
+  .team-page .team-content p {
+    font-size: 16px;
+  }
+  .team-img {
+    width: calc(100% + 50px);
+  }
+  .team-page.reverse .team-content {
+    padding: 20px 30px 20px;
+    border: 15px solid #fff;
+    border-left:  0;
+  }
+  .team-page.reverse .team-content {
+    width: calc(100% + 50px);
+  }
+  .next-event {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .news-article-page .article-content p{
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .news-article-page .article-content blockquote div{
+    font-size: 17px;
+  }
+  .news-article-page .article-content blockquote {
+    padding: 30px 30px 30px 60px;
+  }
+  .news-article-page .article-content blockquote p::after {
+    right: 16px;
+  }
+ 
+}
+
+/*===========================
+  Screen Size 1150px End
+===========================*/
+
+
+/*===========================
+     Screen Size 991px
+===========================*/
+@media(max-width: 991px){
+  section {
+      margin-top: 35px;
+    }
+    .secondary-btn {
+      padding: 12px 16px 12px;
+    }
+  .we-are .we-box1{
+    margin-bottom: 25px;
+    width: 100%;
+    /*margin-top: 25px;*/
+  }
+  .we-are .we-box2{
+    width: 100%;
+  }
+  .we-are .we-box2 {
+    margin-left: 0;
+  }
+  .container.make-diff{
+    max-width: 100%;
+  } 
+  .container.news-updates{
+    max-width: 100%;
+  }
+  .card img{
+    width: 100%;
+  }
+  .make-diff .card-body {
+    max-width: 300px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  .news-wrapper a {
+    display: none;
+  }
+  .donate-now + .container {
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .donate-now + .container a {
+    margin-left: 0;
+    margin-top: 25px;
+  }
+  .changing-sec.bg-w > .container{
+    max-width: 100%;
+  }
+  .container.donate-now , .gallery.container{
+    max-width: 100%;
+  }
+  .donate-now + .container {
+    max-width: 100%;
+    text-align: center;
+  }
+  .current-camp > .container , .your-donation  > .container{
+    max-width: 100%;
+  }
+  .gallery .col-lg-3.col-md-6{
+    margin-bottom: 25px;
+  } 
+  .video-gallery .item .play img {
+    margin-top: -20px;
+    width: 30%;
+  }
+  .video-gallery .slick-center .item .play img {
+    margin-top: -30px;
+  }
+  .newsletter > .container{
+    max-width: 100%;
+  } 
+  .footer > .container{
+    max-width: 100%;
+  }
+  .footer {
+    margin-top: 35px;
+    padding-top: 35px;
+  }
+  .footer .box .icon-box a {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 14px;
+    margin-right: 3px;
+  }
+  .content-container > .row{
+    flex-direction: column-reverse;
+  }
+  section.p-0 .reverse {
+    flex-direction: column-reverse;
+  }
+  section.p-0 .reverse .content-box {
+    margin-left: 0;
+    border: none;
+    width: 100%;
+  }
+  .content-container .content-box {
+    padding-left: 55px;
+    width: 100%;
+    border: 0;
+  }
+  .content-area .container{
+    max-width: 100%;
+    padding-left: 55px;
+  }
+  .img-area .row > div:first-child{
+    margin-bottom: 20px;
+  }
+  .content-container .content-title, .content-title {
+    font-size: 40px;
+  }
+  .donate-now + .we-are .we{}
+  .celibration-cards{
+    max-width: 100%;
+  }
+  .nice-select {
+    width: 243px;
+    height: 50px;
+    line-height: 50px;
+  }
+  .nice-select::after {
+    top: 40%;
+  }
+  .celebration-content .btns .donate-btn {
+    padding: 12px;
+  }
+  .event-content .site-content .btns .share {
+    height: 50px;
+    padding: 13px;
+  }
+  .next-event .content {
+    padding: 25px 30px;
+  }
+  .next-event .content  h2{
+    font-size: 35px;
+  }
+  .next-event .content  h4{
+    font-size: 25px;
+  }
+  .news-card .col-lg-6 .card{
+    margin-bottom: 10px;
+  }
+  .news-card .news-box .news-img {
+    text-align: left;
+  }
+  .news-page .container{
+    max-width: 100%;
+  }
+  .news-story .col-sm-6{
+    margin-bottom: 30px;
+  }
+  .news-story .col-12 .btn {
+  margin-top: 0;
+  }
+}
+
+/*===========================
+  Screen Size 991px End
+===========================*/
+
+
+/*===========================
+     Screen Size 768px
+===========================*/
+@media(max-width: 768px){
+    .heading {
+      font-size: 3rem;
+    }
+    .current-camp h2 span {
+      font-size: unset;
+    }
+    .camp-btn .primary-btn {
+      font-size: 12px;
+      padding: 12px 16px 12px;
+    }
+    .camp-btn .donate-btn {
+      padding: 10px;
+    }
+    .top-img {
+      padding: 15px 0 12px 15px;
+      width: 300px;
+    }
+    .sub-heading {
+      font-size: 1.8rem;
+    }
+    .we-are{
+      border: 10px solid var(--white-color);
+      max-width: 100%;
+      margin-top: 35px;
+    }
+    .we-are .card-row {
+    height: auto;
+    }
+    .we-are .we-box2{
+      width: 50%;
+      margin-left: 0;
+      border: 10px solid #FFF;
+    }
+    .we-are .we-box1{
+      width: 50%;
+      margin-right: 0;
+      border: 10px solid #FFF;
+    }
+    .we-are .row.card-row.g-0 {
+      flex-direction: column-reverse;
+    }
+    .we-are .we-btn{
+      position: initial;
+    }
+    .we-are .card .card-body {
+      padding: 30px 15px;
+    }
+    .we-are .card img {
+      width: 100%;
+    }
+    .donate-now .sel-container .sel-box {
+      margin-bottom: 0;
+    }
+    .donate-now .sel-container .sel-box label{
+      margin-bottom: 25px;
+    }
+    
+    .donate-now .sel-container .sel-content span {
+      font-size: 1rem;
+    }
+    .changing-sec .card .card-img + div {
+      padding-top: 12px;
+    }
+    .newsletter .form-box {
+      flex-direction: column;
+      display: block;
+      max-width: 480px;
+      margin: 25px auto 0;
+    }
+    .newsletter .form-box .input {
+      margin-right: 0;
+      margin-bottom: 25px;
+      text-align: center;
+    }
+    .video-gallery .slick-next {
+      width: 30px;
+      height: 30px;
+    }
+    .video-gallery .slick-prev {
+      width: 30px;
+      height: 30px;
+    }
+    .video-gallery .slick-prev::before {
+      font-size: 2rem;
+    }
+    .video-gallery .slick-next::before {
+      font-size: 2rem;
+    }
+    .donate-now .sel-container .donate-btn {
+      font-size: 1.5rem;
+      padding: 16px 18px 15px;
+    }
+    .donate-now .sel-container .donate-btn img {
+      width: 20%;
+    }
+    .donate-now .sel-container .sel-box label {
+      padding: 9px 12px 8px;
+      margin-right: 10px;
+      font-size: 1.6rem;
+    }
+    .links-wrapper {
+      top: 0px;
+    }
+    .changing-sec {
+    padding-bottom: 50px;
+  }
+    .outer-area h2{
+    font-size: 40px;
+  }
+  .content-container .content-box {
+    padding-left: 30px;
+    padding-right: 10px;
+  }
+  section.p-0 .reverse .content-box {
+    padding-left: 30px;
+    padding-right: 10px;
+  }
+  .content-area .container {
+    padding-left: 30px;
+    padding-right: 10px;
+  }
+  .donate-head h2 {
+    font-size: 35px;
+  }
+  .donate-head h4 {
+    margin-top: 25px;
+    font-size: 18px;
+    line-height: 25px;
+  }
+  .donate-head p {
+    font-size: 14px;
+    line-height: 25px;
+    margin-top: 25px;
+  }
+  .celebration-pagination .pagination-lg .page-link {
+    font-size: 1.2rem;
+  }
+  .celebration-header .sub-heading {
+    font-size: 35px;
+  }
+  .event-content .site-content .event-detail{
+    font-size: 20px;
+  }
+  .team-page .team-content {
+    border: none;
+    margin: 0;
+    padding: 15px;
+  }
+  .team-img {
+    width: 100%;
+  }
+  .team-page.reverse .team-content {
+    border: none;
+    margin: 0;
+    width: 100%;
+  }
+  .team-page > .container {
+    padding-left: 0;
+  }
+  .team-page.reverse > .container {
+    padding-right: 0px;
+  }
+  .team-page .team-content p {
+    line-height: 24px;
+  }
+  .next-event > .container{
+    max-width: 100%;
+  }
+  .title-heading {
+    font-size: 2.4rem;
+    margin-bottom: 1rem;
+  }
+  .news-head p{
+    font-size: 18px;
+  }
+  .news-article-page .article-content blockquote p::before {
+    font-size: 1.8rem;
+  }
+  .news-article-page .article-content blockquote p::after {
+    font-size: 1.8rem;
+  }
+  .news-article-page .article-content{
+    margin-top: 33px;
+  } 
+
+     
+}
+
+/*===========================
+  Screen Size 768px End
+===========================*/
+/*===========================
+  Screen Size 730px 
+===========================*/
+@media(max-width: 730px){
+  .pera {
+    font-size: 1.3rem;
+  }
+}
+@media(max-width: 630px){
+  .video-gallery .slick-next {
+    right: 0px;
+  }
+  .video-gallery .slick-prev {
+    left:  0px;
+    z-index: 10;
+  }
+  .message-us .captcha {
+    flex-direction: column;
+  }
+   .message-us .captcha input {
+    margin-top: 20px;
+   }
+   .celebration-content .btns {
+    flex-direction: column;
+    align-items: flex-start;
+   }
+   .celebration-content .share-2 .list {
+    margin-bottom: 25px;
+   }
+   .celebration-content .btns .donate-btn {
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  .celebration-content .site-content .btns .share {
+    margin-top: 0;
+  }
+  .event-content .site-content .btns .share {
+    margin-top: 25px;
+  }
+  .stay-up .content p {
+    font-size: 20px;
+  }
+  .news-article-page .article-content blockquote p::before {
+    font-size: 1.3rem;
+  }
+  .news-article-page .article-content blockquote p::after{
+    font-size: 1.3rem;
+  }
+}
+
+/*===========================
+     Screen Size 575px
+===========================*/
+@media(max-width:575px){
+  .pera {
+    font-size: 1rem;
+    line-height: normal;
+  }
+  .home-sec p span, .home-sec h1 span {
+    padding: 0 12px 6px;
+  }
+  .home-sec p span:last-child, .home-sec h1 span:last-child {
+    padding-bottom: 10px;
+  }
+  .news-updates .card-title {
+    min-height: auto;
+  }
+  .we-are {
+    border: none;
+  }
+  .we-are .we-box1 , .we-are .we-box2{
+    border: 5px solid #FFF;
+  }
+  .donate-now .sel-container .sel-box label {
+    font-size: 1.2rem;
+    margin-right: 5px;
+  }
+  .current-camp p span , .progress-box span {
+    font-size: 20px;
+  }
+  .camp-content .camp-btn {
+    justify-content: space-around;
+  }
+  .camp-btn .donate-btn{
+    margin-top: 25px;
+  }
+  .donation-box {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .donate-now .sel-container .donate-btn {
+    font-size: 1.3rem;
+    padding: 12px 10px 12px;
+  }
+  .donate-now .sel-container .donate-btn img {
+    width: 16%;
+  } 
+  .content-container .content-title, .content-title {
+    font-size: 30px;
+  }
+  .news-article .col-md-6 {
+    margin-bottom: 30px;
+  }
+  .news-page .card {
+    height: auto;
+  }
+  .news-story .card{
+    margin-bottom: 30px;
+  }
+   .news-story .col-12 .btn , .news-article .col-12 .btn{
+    margin-top: 0;
+   }
+   .news-story .col-sm-6 {
+    margin-bottom: 0;
+  }
+   .news-article-page .news-story .card {
+    height: auto;
+  }
+}
+/*===========================
+  Screen Size 575px End
+===========================*/
+
+@media(max-width:535px){
+  .we-are .we-box1 , .we-are .we-box2 {
+    width: 100%;
+    padding: 12px;
+  }
+  .donate-now .sel-container .sel-box label {
+    padding: 7px 10px 6px;
+  }
+  .news-updates {
+    padding: 0 30px 35px;
+  }
+  .stay-up .content p {
+    font-size: 16px;
+  }
+  .stay-up .content span {
+    padding: 0 10px;
+  }
+}
+
+/*===========================
+     Screen Size 480px
+===========================*/
+@media(max-width: 480px){
+  .heading {
+  font-size: 2rem;
+ }
+ .top-img {
+  width: 230px;
+ }
+ .top-bar .mobile-icon i {
+    font-size: 1.6rem;
+    margin-right: 10px;
+  }
+ body .col-xs-6{
+  width: 100%;
+ }
+ .donate-now .sel-container .sel-box label {
+  padding: 7px 10px 6px;
+ }
+ .donation-box {
+  padding-left: 0;
+  padding-right: 0;
+ }
+ .your-donation .form-check-label {
+    font-size: 20.76px;
+  }
+ .footer .foot-logo {
+   width: 200px;
+}
+ .footer .foot-logo img {
+  width: 100%;
+ }
+ .footer .foot-box .btn {
+    padding: 12.5px 12px 8.5px;
+  }
+ .footer .box .icon-box a {
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+    margin-right: 0;
+  }
+  .newsletter p {
+    font-size: 16px;
+  }
+}
+
+/*===========================
+  Screen Size 480px End
+===========================*/
+
+/*===========================
+     Screen Size 380px
+===========================*/
+@media(max-width: 430px){
+.your-donation .form-check-label {
+  margin: 0;
+  font-size: 18px;
+}
+.top-img {
+  padding: 15px 0 12px 0px;
+}
+.pera {
+    font-size: 14px;
+  }
+  .your-donation .donation-content h1 span {
+    padding: 0 10px 5px;
+  }
+  .your-donation .donation-content p span {
+    padding: 0 10px;
+  }
+  .current-camp p span, .progress-box span {
+    font-size: 14px;
+    padding: 5px 20px;
+  }
+  .footer .foot-logo {
+    width: 150px;
+  }
+  .footer .foot-box .btn {
+    padding: 7px 7px 4px;
+  }
+  .donate-now .sel-container .sel-box label {
+    font-size: 18px;
+    margin-right: 0;
+  }
+  .donate-now .sel-container .sel-box label {
+    padding: 7px 6px 6px;
+  }
+  .stay-up .content p {
+    font-size: 14px;
+  }
+  .stay-up .content span {
+    padding: 0 3px;
+    font-weight: 500;
+  }
+  /*.video-gallery .slick-next {
+    right: 48px;
+    width: 20px;
+    height: 20px;
+  }
+  .video-gallery .slick-next::before {
+    font-size: 16px;
+  }*/
+  .celebration-content .btns .donate-btn > div {
+    width: 35px;
+  }
+  .event-content .site-content .event-detail{
+    font-size: 18px;
+  }
+  .celebration-content .content p {
+    font-size: 18px;
+  }
+  .next-event .content h2 {
+    font-size: 28px;
+  }
+  .next-event .content h4 {
+    font-size: 22px;
+  }
+
+}
+
+/*===========================
+     Screen Size 380px End
+===========================*/
